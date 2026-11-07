@@ -11,5 +11,6 @@ spec:
           env:
             - name: ENVIRONMENT
               value: production
+              valueFrom: null
             - name: APP_VERSION
               value: "1.0.0-prod"
