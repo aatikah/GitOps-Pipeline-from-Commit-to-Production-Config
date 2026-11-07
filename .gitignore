@@ -1,0 +1,14 @@
+# Local temp files
+*.tmp
+*.bak
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+*.pem
+*.key
+.env
+.env.*
