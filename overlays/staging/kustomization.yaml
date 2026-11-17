@@ -6,6 +6,6 @@ resources:
 images:
 - name: 985539759633.dkr.ecr.us-east-1.amazonaws.com/full-gitops-app
   newName: 985539759633.dkr.ecr.us-east-1.amazonaws.com/full-gitops-app
-  newTag: 9cc2522460ee475ef8b14cc8e3a350cbf79188c6
+  newTag: b164c5dfb1a1c52d83f3f3a00c3f40db1ae1187d
 patches:
 - path: deployment-patch.yaml
