@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: 985539759633.dkr.ecr.us-east-1.amazonaws.com/full-gitops-app:latest
+          image: 985539759633.dkr.ecr.us-east-1.amazonaws.com/full-gitops-app:REPLACE_WITH_COMMIT_SHA
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
